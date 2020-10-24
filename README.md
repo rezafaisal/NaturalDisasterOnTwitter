@@ -1,2 +1,3 @@
-# social_network_sensor
-Social Network Sensor for Natural Disaster
+# Dataset Bencana Alam dari Twitter
+Dataset terdiri atas kasus:
+- 
